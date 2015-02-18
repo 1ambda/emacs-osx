@@ -4,5 +4,7 @@
 
 (mapc 'require '(config-cask
                  config-pallet
-                 config-evil))
+                 config-evil
+                 config-smex
+                 ))
 
