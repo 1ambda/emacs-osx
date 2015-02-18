@@ -6,5 +6,10 @@
                  config-pallet
                  config-evil
                  config-smex
+                 ;; todo
+                 ;; config-ido
+                 ;; config-theme, powerline, font
+                 ;; config-autocomplete
+                 ;; config-yasnippet
                  ))
 
