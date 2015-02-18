@@ -55,6 +55,7 @@
 (require 'evil-iedit-state)
 
 ;; evil-smartparens
+(require 'smartparens-config)
 (smartparens-global-mode 1)
 (add-hook 'smartparens-enabled-hook #'evil-smartparens-mode)
 

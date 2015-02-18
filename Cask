@@ -46,6 +46,13 @@
 (depends-on "evil-iedit-state")
 (depends-on "evil-smartparens")
 
+(depends-on "ido")
+(depends-on "flx-ido")
+(depends-on "ido-ubiquitous")
+(depends-on "ido-at-point")
+(depends-on "ido-vertical-mode")
+(depends-on "ido-sort-mtime")
+(depends-on "ido-hacks")
+(depends-on "ido-select-window")
 
-
-
+(depends-on "switch-window")

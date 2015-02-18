@@ -2,12 +2,17 @@
 (setq dir/config (concat user-emacs-directory "config/"))
 (add-to-list 'load-path dir/config)
 
-(mapc 'require '(config-cask
+;; load config files
+(mapc 'require '(config-default
+		 config-cask
                  config-pallet
-                 config-evil
                  config-smex
+		 config-ido
+                 config-evil
                  ;; todo
-                 ;; config-ido
+		 ;; frame, window
+		 ;; git gutter
+		 ;; projectile
                  ;; config-theme, powerline, font
                  ;; config-autocomplete
                  ;; config-yasnippet

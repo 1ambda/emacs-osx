@@ -4,17 +4,13 @@
 
 (1) install [cask](http://cask.readthedocs.org/en/latest/guide/installation.html)
 
-```
-$ brew install cask
-```
+`$ brew install cask`
 
-(2) add cask to your `$PATH`
+(2) add cask path
 
 `export PATH="$HOME/.cask/bin:$PATH"`
 
 (3) initialize cask
 
-```
-$ cask install
-```
+`$ cask install`
 
