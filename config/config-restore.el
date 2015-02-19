@@ -4,6 +4,8 @@
 (workgroups-mode 1)
 
 ;; restore frame size
+(setq warning-suppress-types nil)
+(add-to-list 'warning-suppress-types '(frame-restore))
 (frame-restore-mode)
 
 (provide 'config-restore)
