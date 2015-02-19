@@ -54,5 +54,5 @@
 (depends-on "ido-sort-mtime")
 (depends-on "ido-hacks")
 (depends-on "ido-select-window")
+(depends-on "workgroups2")
 
-(depends-on "switch-window")

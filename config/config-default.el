@@ -14,6 +14,15 @@
 (setq make-backup-files nil)
 (setq create-lockfiles nil)
 
+;; auto-save on switch buffer
+(defadvice switch-to-buffer (before save-buffer-now activate)
+  (when buffer-file-name (save-buffer)))
+(defadvice other-window (before other-window-now activate)
+  (when buffer-file-name (save-buffer)))
+(defadvice other-frame (before other-frame-now activate)
+  (when buffer-file-name (save-buffer)))
+
+
 ;; open 'init.el' using C-c C-q
 (global-set-key (kbd "C-c C-q") (lambda ()
 				  (interactive)
