@@ -2,4 +2,5 @@ auto-save-list/
 .cask/
 smex-items
 ido.last
-.emacs_workgroups
+.emacs.workgroups
+frame-restore-parameters

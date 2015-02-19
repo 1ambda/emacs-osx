@@ -14,7 +14,6 @@
 		 config-restore
                  config-evil
                  ;; todo
-		 ;; frame, window
 		 ;; git gutter
 		 ;; projectile
                  ;; config-theme, powerline, font
