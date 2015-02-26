@@ -13,12 +13,13 @@
 
 ;; load config files
 (mapc 'require '(config-default
+                 config-evil
+		 config-theme
 		 config-restore
 		 config-buffer
 		 config-recentf
                  config-smex
 		 config-ido
-                 config-evil
                  ;; todo
 		 ;; git gutter, magit?
 		 ;; projectile

@@ -59,3 +59,5 @@
 (depends-on "frame-restore")
 
 (depends-on "sublime-themes")
+(depends-on "powerline")
+(depends-on "powerline-evil")
