@@ -57,3 +57,5 @@
 
 (depends-on "workgroups2")
 (depends-on "frame-restore")
+
+(depends-on "sublime-themes")

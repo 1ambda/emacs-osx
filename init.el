@@ -15,11 +15,11 @@
 (mapc 'require '(config-default
 		 config-restore
 		 config-buffer
+		 config-recentf
                  config-smex
 		 config-ido
                  config-evil
                  ;; todo
-		 ;; recentf
 		 ;; git gutter, magit?
 		 ;; projectile
                  ;; config-theme, powerline, font
