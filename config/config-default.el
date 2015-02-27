@@ -1,5 +1,6 @@
 ;; remove tool bar
 (tool-bar-mode -1)
+(scroll-bar-mode -1) 
 
 ;; enable line-number
 (global-linum-mode t)
