@@ -20,11 +20,9 @@
 		 config-recentf
                  config-smex
 		 config-ido
+		 config-git
                  ;; todo
-		 ;; git gutter, magit?
 		 ;; projectile
-                 ;; config-theme, powerline, font
                  ;; config-autocomplete
                  ;; config-yasnippet
                  ))
-
