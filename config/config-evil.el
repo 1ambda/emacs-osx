@@ -56,7 +56,7 @@
 (evil-leader/set-leader "\\")
 (global-evil-leader-mode)
 (evil-leader/set-key
-  "e" 'find-file
+  "f" 'find-file
   "b" 'switch-to-buffer
   "k" 'kill-buffer)
 

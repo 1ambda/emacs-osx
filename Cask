@@ -63,6 +63,6 @@
 (depends-on "sublime-themes")
 (depends-on "powerline")
 (depends-on "powerline-evil")
-
+(depends-on "fill-column-indicator")
 (depends-on "git-gutter+")
 (depends-on "git-gutter-fringe+")
