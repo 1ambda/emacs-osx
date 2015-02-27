@@ -1,0 +1,26 @@
+import
+class
+case class
+object
+case object
+trait
+type
+extends
+with
+this
+new
+def
+if
+else
+case
+for
+while
+synchronized
+override
+abstract
+abstract override
+private
+protected
+final
+sealed
+implicit

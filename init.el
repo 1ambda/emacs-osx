@@ -20,6 +20,7 @@
 		 config-recentf
                  config-smex
 		 config-ido
+		 config-auto-complete
 		 config-git
 		 config-projectile
                  ;; todo

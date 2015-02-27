@@ -33,6 +33,8 @@
 (depends-on "iedit")
 (depends-on "use-package")
 (depends-on "web-mode")
+
+(depends-on "auto-complete")
 (depends-on "yasnippet")
 
 (depends-on "evil")
