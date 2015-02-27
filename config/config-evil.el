@@ -28,14 +28,6 @@
 (require 'evil-matchit)
 (global-evil-matchit-mode 1)
 
-;; evil-leader key: '\'
-(require 'evil-leader)
-(global-evil-leader-mode)
-(evil-leader/set-key
-  "e" 'find-file
-  "b" 'switch-to-buffer
-  "k" 'kill-buffer)
-
 ;; evil-easymotion
 (evilem-default-keybindings "SPC")
 
@@ -59,5 +51,13 @@
 (smartparens-global-mode 1)
 (add-hook 'smartparens-enabled-hook #'evil-smartparens-mode)
 
+;; evil-leader key: '\'
+(require 'evil-leader)
+(evil-leader/set-leader "\\")
+(global-evil-leader-mode)
+(evil-leader/set-key
+  "e" 'find-file
+  "b" 'switch-to-buffer
+  "k" 'kill-buffer)
 
 (provide 'config-evil)

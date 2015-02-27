@@ -8,8 +8,12 @@
 		     :background
 		     "#515151")
 
-;; powerline
+;; powerline 2015.02 doesn't work
 (require 'powerline)
-(powerline-center-theme)		
+(powerline-center-theme)
+
+;; fci-mode
+
+
 
 (provide 'config-theme)

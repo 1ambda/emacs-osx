@@ -11,8 +11,8 @@
 ;; load config files
 (mapc 'require '(config-default
 		 config-cedet		
-                 config-evil
 		 config-theme
+                 config-evil
 		 config-restore
 		 config-buffer
 		 config-recentf
