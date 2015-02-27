@@ -5,3 +5,4 @@ ido.last
 .emacs.workgroups
 frame-restore-parameters
 recentf
+projectile.cache

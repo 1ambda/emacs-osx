@@ -21,6 +21,7 @@
                  config-smex
 		 config-ido
 		 config-git
+		 config-projectile
                  ;; todo
 		 ;; projectile
                  ;; config-autocomplete
