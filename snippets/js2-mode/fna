@@ -1,0 +1,6 @@
+# name: function-anonymous
+# key: fna
+# --
+function($1) {
+  $2
+}

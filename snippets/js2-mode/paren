@@ -1,0 +1,4 @@
+# name: paren
+# key: pr
+# --
+($1);

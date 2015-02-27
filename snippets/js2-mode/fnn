@@ -1,0 +1,6 @@
+# name: funtion-named
+# key: fnn
+# --
+function $1 ($2) {
+  $3
+};

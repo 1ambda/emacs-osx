@@ -1,0 +1,7 @@
+# name: function
+# key: func
+# --
+function $1 ($2) {
+  'use strict';
+  $3
+};

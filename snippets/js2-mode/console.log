@@ -1,0 +1,5 @@
+# contributor: anster <ansterd@nate.com>
+# name: console.log
+# key: col
+# --
+console.log($0);

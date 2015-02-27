@@ -21,7 +21,7 @@
 		 config-auto-complete
 		 config-git
 		 config-projectile
+                 config-snippet
                  ;; todo
-                 ;; config-yasnippet
 		 ;; auto-complete per language
                  ))

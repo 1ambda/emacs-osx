@@ -1,0 +1,8 @@
+# name: TestSuite
+# key: TestSuite
+# --
+import org.scalatest._
+
+class $1 extends FlatSpec with Matchers {
+  $2
+}

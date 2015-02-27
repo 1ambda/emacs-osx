@@ -1,0 +1,4 @@
+# name: behavior
+# key: behavior
+# --
+behavior of "$1"

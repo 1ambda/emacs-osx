@@ -1,0 +1,6 @@
+# name: shouldin
+# key: shouldin
+# --
+"$1" should "$2" in {
+  $3
+}

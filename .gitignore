@@ -10,3 +10,4 @@ projectile-bookmarks.eld
 ac-comphist.dat
 *.elc
 srecode-map.el
+semanticdb/
