@@ -7,3 +7,6 @@ frame-restore-parameters
 recentf
 projectile.cache
 projectile-bookmarks.eld
+ac-comphist.dat
+*.elc
+srecode-map.el
