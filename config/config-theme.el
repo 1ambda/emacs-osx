@@ -8,8 +8,10 @@
 		     :background
 		     "#313131")
 
-(require 'powerline)
-(powerline-default-theme)
+;; (require 'powerline)
+;; (powerline-default-theme)
+(require 'powerline-evil)
+(powerline-evil-vim-theme)
 
 ;; fci-mode
 (require 'fill-column-indicator)
