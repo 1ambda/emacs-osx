@@ -32,7 +32,6 @@
 (depends-on "smex")
 (depends-on "iedit")
 (depends-on "use-package")
-(depends-on "web-mode")
 
 (depends-on "auto-complete")
 (depends-on "yasnippet")
@@ -66,3 +65,9 @@
 (depends-on "fill-column-indicator")
 (depends-on "git-gutter+")
 (depends-on "git-gutter-fringe+")
+
+(depends-on "web-mode")
+(depends-on "emmet-mode")
+
+(depends-on "less-css-mode")
+(depends-on "rainbow-mode")

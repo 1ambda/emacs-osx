@@ -22,7 +22,16 @@
 		 config-git
 		 config-projectile
                  config-snippet
+
+		 language-html		
+		 language-css
+		 language-js
                  ;; todo
 		 ;; auto-complete per language
+		 ;; html, css, javascript
+		 ;; python, scala, haskell
+		 ;; lisp
+		 ;; flycheck
                  ))
+
 
