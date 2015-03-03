@@ -69,5 +69,11 @@
 (depends-on "web-mode")
 (depends-on "emmet-mode")
 
+(depends-on "js2-mode")
+(depends-on "ac-js2")
+(depends-on "js2-refactor")
+(depends-on "tern")
+(depends-on "tern-auto-complete")
+
 (depends-on "less-css-mode")
 (depends-on "rainbow-mode")

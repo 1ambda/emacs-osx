@@ -23,6 +23,7 @@
 		 config-projectile
                  config-snippet
 
+		 config-flycheck
 		 language-html		
 		 language-css
 		 language-js
