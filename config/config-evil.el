@@ -58,6 +58,13 @@
 (evil-leader/set-key
   "f" 'find-file
   "b" 'switch-to-buffer
-  "k" 'kill-buffer)
+  "k" 'kill-other-buffers)
+
+(defun kill-other-buffers ()
+    "Kill all other buffers."
+    (interactive)
+    (mapc 'kill-buffer 
+          (delq (current-buffer) 
+                (remove-if-not 'buffer-file-name (buffer-list)))))
 
 (provide 'config-evil)
