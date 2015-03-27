@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2005, 2007, 2008, 2009, 2010, 2013 Eric M. Ludlam
 
-;; Author: 1002471 <1002471@SKP1002471MN001.local>
-;; Created: 2015-02-27 16:56:29+0900
+;; Author: 1002471 <1002471@SKP1002471MN001-2.local>
+;; Created: 2015-03-26 10:04:15+0900
 ;; Keywords: syntax
 ;; X-RCS: $Id$
 

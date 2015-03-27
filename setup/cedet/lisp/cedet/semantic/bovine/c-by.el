@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 1999-2012, 2014 Free Software Foundation, Inc.
 
-;; Author: 1002471 <1002471@SKP1002471MN001.local>
-;; Created: 2015-02-27 16:57:12+0900
+;; Author: 1002471 <1002471@SKP1002471MN001-2.local>
+;; Created: 2015-03-26 10:04:56+0900
 ;; Keywords: syntax
 ;; X-RCS: $Id$
 

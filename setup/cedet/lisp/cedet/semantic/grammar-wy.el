@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2002, 2003, 2004 David Ponce
 
-;; Author: 1002471 <1002471@SKP1002471MN001.local>
-;; Created: 2015-02-27 16:56:55+0900
+;; Author: 1002471 <1002471@SKP1002471MN001-2.local>
+;; Created: 2015-03-26 10:04:40+0900
 ;; Keywords: syntax
 ;; X-RCS: $Id$
 

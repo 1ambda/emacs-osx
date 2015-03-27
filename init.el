@@ -27,7 +27,8 @@
 		 language-html		
 		 language-css
 		 language-js
-                 ;; todo
+		 language-scala
+                 ;; tod
 		 ;; auto-complete per language
 		 ;; html, css, javascript
 		 ;; python, scala, haskell

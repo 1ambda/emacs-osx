@@ -3,7 +3,7 @@
 ;;; Code:
 
 
-;;;### (autoloads nil "ede/android" "android.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/android" "android.el" (21778 55419 0 0))
 ;;; Generated autoloads from android.el
 
 (autoload 'ede-android-load "ede/android" "\
@@ -20,7 +20,7 @@ ROOTPROJ is nil, since there is only one project.
 
 ;;;***
 
-;;;### (autoloads nil "ede/ant" "ant.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/ant" "ant.el" (21778 55419 0 0))
 ;;; Generated autoloads from ant.el
 
 (defconst ede-ant-project-file-name "build.xml" "\
@@ -40,7 +40,7 @@ ROOTPROJ is nil, since there is only one project.
 
 ;;;***
 
-;;;### (autoloads nil "ede/arduino" "arduino.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/arduino" "arduino.el" (21778 55419 0 0))
 ;;; Generated autoloads from arduino.el
 
 (autoload 'ede-arduino-root "ede/arduino" "\
@@ -72,7 +72,7 @@ ROOTPROJ is nil, sinc there is only one project for a directory tree.
 
 ;;;***
 
-;;;### (autoloads nil "ede/cpp-root" "cpp-root.el" (21744 8400 0
+;;;### (autoloads nil "ede/cpp-root" "cpp-root.el" (21778 55419 0
 ;;;;;;  0))
 ;;; Generated autoloads from cpp-root.el
 
@@ -80,7 +80,7 @@ ROOTPROJ is nil, sinc there is only one project for a directory tree.
 
 ;;;***
 
-;;;### (autoloads nil "ede/custom" "custom.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/custom" "custom.el" (21778 55419 0 0))
 ;;; Generated autoloads from custom.el
 
 (autoload 'ede-customize-project "ede/custom" "\
@@ -104,7 +104,7 @@ Create a custom-like buffer for sorting targets of current project.
 
 ;;;***
 
-;;;### (autoloads nil "ede/dired" "dired.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/dired" "dired.el" (21778 55419 0 0))
 ;;; Generated autoloads from dired.el
 
 (autoload 'ede-dired-minor-mode "ede/dired" "\
@@ -116,14 +116,14 @@ negative, force off.
 
 ;;;***
 
-;;;### (autoloads nil "ede/emacs" "emacs.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/emacs" "emacs.el" (21778 55419 0 0))
 ;;; Generated autoloads from emacs.el
 
 (ede-add-project-autoload (ede-project-autoload "emacs" :name "EMACS ROOT" :file 'ede/emacs :proj-file "src/emacs.c" :load-type 'ede-emacs-load :class-sym 'ede-emacs-project :new-p nil :safe-p t) 'unique)
 
 ;;;***
 
-;;;### (autoloads nil "ede/files" "files.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/files" "files.el" (21778 55419 0 0))
 ;;; Generated autoloads from files.el
 
 (autoload 'ede-find-file "ede/files" "\
@@ -135,7 +135,7 @@ the current EDE project.
 
 ;;;***
 
-;;;### (autoloads nil "ede/generic" "generic.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/generic" "generic.el" (21778 55419 0 0))
 ;;; Generated autoloads from generic.el
 
 (autoload 'ede-enable-generic-projects "ede/generic" "\
@@ -145,7 +145,7 @@ Enable generic project loaders.
 
 ;;;***
 
-;;;### (autoloads nil "ede/java-root" "java-root.el" (21744 8400
+;;;### (autoloads nil "ede/java-root" "java-root.el" (21778 55419
 ;;;;;;  0 0))
 ;;; Generated autoloads from java-root.el
 
@@ -153,7 +153,7 @@ Enable generic project loaders.
 
 ;;;***
 
-;;;### (autoloads nil "ede/jvm-base" "jvm-base.el" (21744 8400 0
+;;;### (autoloads nil "ede/jvm-base" "jvm-base.el" (21778 55419 0
 ;;;;;;  0))
 ;;; Generated autoloads from jvm-base.el
 
@@ -161,7 +161,7 @@ Enable generic project loaders.
 
 ;;;***
 
-;;;### (autoloads nil "ede/lein2" "lein2.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/lein2" "lein2.el" (21778 55419 0 0))
 ;;; Generated autoloads from lein2.el
 
 (defconst ede-lein2-project-file-name "project.clj" "\
@@ -181,7 +181,7 @@ ROOTPROJ is nil, since there is only one project.
 
 ;;;***
 
-;;;### (autoloads nil "ede/linux" "linux.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/linux" "linux.el" (21778 55419 0 0))
 ;;; Generated autoloads from linux.el
 
 (autoload 'ede-linux-load "ede/linux" "\
@@ -196,7 +196,7 @@ ROOTPROJ is nil, since there is only one project.
 
 ;;;***
 
-;;;### (autoloads nil "ede/locate" "locate.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/locate" "locate.el" (21778 55419 0 0))
 ;;; Generated autoloads from locate.el
 
 (autoload 'ede-enable-locate-on-project "ede/locate" "\
@@ -208,7 +208,7 @@ based on `ede-locate-setup-options'.
 
 ;;;***
 
-;;;### (autoloads nil "ede/m3" "m3.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/m3" "m3.el" (21778 55419 0 0))
 ;;; Generated autoloads from m3.el
 
 (autoload 'ede-m3-install "ede/m3" "\
@@ -218,7 +218,7 @@ based on `ede-locate-setup-options'.
 
 ;;;***
 
-;;;### (autoloads nil "ede/make" "make.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/make" "make.el" (21778 55419 0 0))
 ;;; Generated autoloads from make.el
 
 (autoload 'ede-make-check-version "ede/make" "\
@@ -232,7 +232,7 @@ If NOERROR is nil, then throw an error on failure.  Return t otherwise.
 
 ;;;***
 
-;;;### (autoloads nil "ede/maven2" "maven2.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/maven2" "maven2.el" (21778 55419 0 0))
 ;;; Generated autoloads from maven2.el
 
 (autoload 'ede-maven2-load "ede/maven2" "\
@@ -249,7 +249,7 @@ ROOTPROJ is nil, since there is only one project.
 
 ;;;***
 
-;;;### (autoloads nil "ede/speedbar" "speedbar.el" (21744 8400 0
+;;;### (autoloads nil "ede/speedbar" "speedbar.el" (21778 55419 0
 ;;;;;;  0))
 ;;; Generated autoloads from speedbar.el
 
@@ -260,7 +260,7 @@ Setup some keybindings in the Speedbar File display.
 
 ;;;***
 
-;;;### (autoloads nil "ede/system" "system.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/system" "system.el" (21778 55419 0 0))
 ;;; Generated autoloads from system.el
 
 (autoload 'ede-web-browse-home "ede/system" "\
@@ -294,7 +294,7 @@ Run `vc-dir' on the current project.
 
 ;;;***
 
-;;;### (autoloads nil "ede/util" "util.el" (21744 8400 0 0))
+;;;### (autoloads nil "ede/util" "util.el" (21778 55419 0 0))
 ;;; Generated autoloads from util.el
 
 (autoload 'ede-update-version "ede/util" "\
@@ -310,7 +310,8 @@ Argument NEWVERSION is the version number to use in the current project.
 ;;;;;;  "proj-archive.el" "proj-aux.el" "proj-comp.el" "proj-elisp.el"
 ;;;;;;  "proj-info.el" "proj-misc.el" "proj-obj.el" "proj-prog.el"
 ;;;;;;  "proj-scheme.el" "proj-shared.el" "proj.el" "project-am.el"
-;;;;;;  "shell.el" "source.el" "srecode.el") (21744 8997 902346 0))
+;;;;;;  "shell.el" "source.el" "srecode.el") (21779 23304 149165
+;;;;;;  0))
 
 ;;;***
 

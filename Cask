@@ -77,3 +77,7 @@
 
 (depends-on "less-css-mode")
 (depends-on "rainbow-mode")
+
+(depends-on "scala-mode2")
+(depends-on "sbt-mode")
+(depends-on "ensime")

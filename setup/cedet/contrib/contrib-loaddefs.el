@@ -3,7 +3,7 @@
 ;;; Code:
 
 
-;;;### (autoloads nil "eassist" "eassist.el" (21744 8400 0 0))
+;;;### (autoloads nil "eassist" "eassist.el" (21778 55419 0 0))
 ;;; Generated autoloads from eassist.el
 
 (defvar eassist-header-switches '(("h" "cpp" "cc" "c") ("hpp" "cpp" "cc") ("cpp" "h" "hpp") ("c" "h") ("C" "H") ("H" "C" "CPP" "CC") ("cc" "h" "hpp")) "\
@@ -27,7 +27,7 @@ This function is recommended to be bound to some convinient hotkey.
 
 ;;;***
 
-;;;### (autoloads nil "ede-gnustep" "ede-gnustep.el" (21744 8400
+;;;### (autoloads nil "ede-gnustep" "ede-gnustep.el" (21778 55419
 ;;;;;;  0 0))
 ;;; Generated autoloads from ede-gnustep.el
 
@@ -42,7 +42,7 @@ This function is recommended to be bound to some convinient hotkey.
 ;;;***
 
 ;;;### (autoloads nil "semantic-tag-folding" "semantic-tag-folding.el"
-;;;;;;  (21744 8400 0 0))
+;;;;;;  (21778 55419 0 0))
 ;;; Generated autoloads from semantic-tag-folding.el
 
 (defvar global-semantic-tag-folding-mode nil "\
@@ -80,7 +80,7 @@ minor mode is enabled.
 
 ;;;***
 
-;;;### (autoloads nil "wisent-csharp" "wisent-csharp.el" (21744 8400
+;;;### (autoloads nil "wisent-csharp" "wisent-csharp.el" (21778 55419
 ;;;;;;  0 0))
 ;;; Generated autoloads from wisent-csharp.el
 
@@ -93,7 +93,7 @@ minor mode is enabled.
 
 ;;;***
 
-;;;### (autoloads nil "wisent-php" "wisent-php.el" (21744 8400 0
+;;;### (autoloads nil "wisent-php" "wisent-php.el" (21778 55419 0
 ;;;;;;  0))
 ;;; Generated autoloads from wisent-php.el
 
@@ -108,7 +108,8 @@ Use the alternate LALR(1) parser.
 ;;;***
 
 ;;;### (autoloads nil nil ("cedet-contrib-load.el" "cedet-contrib.el"
-;;;;;;  "semantic-ectag-scala.el" "wisent-ruby.el") (21744 9092 817133
+;;;;;;  "semantic-ectag-scala.el" "wisent-csharp-wy.el" "wisent-php-wy.el"
+;;;;;;  "wisent-ruby-wy.el" "wisent-ruby.el") (21779 23563 927747
 ;;;;;;  0))
 
 ;;;***
