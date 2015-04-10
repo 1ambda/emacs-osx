@@ -30,6 +30,7 @@
 		 language-css
 		 language-js
 		 language-scala
+		 language-coffee
                  ;; tod
 		 ;; auto-complete per language
 		 ;; html, css, javascript
