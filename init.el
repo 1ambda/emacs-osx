@@ -22,8 +22,10 @@
 		 config-git
 		 config-projectile
                  config-snippet
-
 		 config-flycheck
+
+		 custom-function
+
 		 language-html		
 		 language-css
 		 language-js
