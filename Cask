@@ -83,3 +83,5 @@
 (depends-on "ensime")
 
 (depends-on "coffee-mode")
+
+(depends-on "ess")
