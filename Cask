@@ -85,3 +85,5 @@
 (depends-on "coffee-mode")
 
 (depends-on "ess")
+
+(depends-on "markdown-mode")
